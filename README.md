@@ -111,3 +111,15 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ---
 
 ### ⭐ Keep solving. Keep improving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
+<!---LeetCode Topics End-->
