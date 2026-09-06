@@ -142,4 +142,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
