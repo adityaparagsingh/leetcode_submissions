@@ -1,7 +1,6 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         cashe = {}  #dict hashmap 
-        
         def dfs(i,j):
             if j == len(t):
                 return 1
