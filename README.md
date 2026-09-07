@@ -159,4 +159,12 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0182-duplicate-emails) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
