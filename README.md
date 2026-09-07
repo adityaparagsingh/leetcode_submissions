@@ -155,4 +155,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0283-move-zeroes) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
