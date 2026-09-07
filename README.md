@@ -117,6 +117,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [3903-smallest-stable-index-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
@@ -148,4 +149,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
