@@ -4,5 +4,5 @@ class Solution:
         # if(str == " "):
         #     strs = str[-1]
         #     return len(strs)
-        str = s.split()
-        return len(str[-1])
+        str = s.split()[::-1]
+        return len(str[0])
