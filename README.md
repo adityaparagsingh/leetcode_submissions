@@ -133,6 +133,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -140,11 +141,13 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +180,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0190-reverse-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
