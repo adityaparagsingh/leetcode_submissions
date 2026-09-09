@@ -160,11 +160,13 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
@@ -207,4 +209,12 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
