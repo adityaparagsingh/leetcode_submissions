@@ -127,6 +127,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0283-move-zeroes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1480-running-sum-of-1d-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
@@ -186,6 +187,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2652-sum-multiples) |
 | [3516-find-closest-person](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3516-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
