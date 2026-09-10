@@ -163,6 +163,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [2129-capitalize-the-title](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2129-capitalize-the-title) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +193,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3516-find-closest-person](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3516-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
+| [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +271,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
