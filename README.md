@@ -130,6 +130,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
@@ -149,6 +150,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -247,6 +249,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -282,4 +285,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
