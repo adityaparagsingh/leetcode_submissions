@@ -199,6 +199,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2413-smallest-even-multiple](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3099-harshad-number) |
 | [3516-find-closest-person](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3516-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
