@@ -127,6 +127,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0283-move-zeroes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1929-concatenation-of-array) |
@@ -154,6 +155,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -185,6 +187,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -327,4 +330,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
