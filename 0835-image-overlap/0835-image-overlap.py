@@ -1,20 +1,14 @@
 class Solution:
-    def largestOverlap(self, img1, img2):
+    def largestOverlap(self, img1: List[List[int]], img2: List[List[int]]) -> int:
         n = len(img1)
-
-        ones1 = [(r, c) for r in range(n) for c in range(n) if img1[r][c] == 1]
-        ones2 = [(r, c) for r in range(n) for c in range(n) if img2[r][c] == 1]
-
-        frequency = {}
-        maxOverlap = 0
-
-        for r1, c1 in ones1:
-            for r2, c2 in ones2:
-                dr = r1 - r2
-                dc = c1 - c2
-
-                key = (dr, dc)
-                frequency[key] = frequency.get(key, 0) + 1
-                maxOverlap = max(maxOverlap, frequency[key])
-
-        return maxOverlap
+        A = [(i, j) for i in range(n) for j in range(n) if img1[i][j] == 1]
+        B = [(i, j) for i in range(n) for j in range(n) if img2[i][j] == 1]
+        cnt = [[0] * (2 * n) for _ in range(2 * n)]
+        best = 0
+        for ax, ay in A:
+            for bx, by in B:
+                dx = bx - ax + n
+                dy = by - ay + n
+                cnt[dx][dy] += 1
+                best = max(best, cnt[dx][dy])
+        return best
