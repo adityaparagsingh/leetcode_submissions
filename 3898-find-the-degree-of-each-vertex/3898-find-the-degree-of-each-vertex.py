@@ -4,5 +4,5 @@ class Solution:
         for i in range(len(matrix)):
             for j in range(len(matrix[i])):
                 if matrix[i][j] == 1:
-                    ans[j]+=1
+                    ans[i]+=1
         return ans
