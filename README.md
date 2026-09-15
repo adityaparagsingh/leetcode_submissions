@@ -167,6 +167,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
