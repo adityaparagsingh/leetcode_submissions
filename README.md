@@ -162,6 +162,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -181,6 +182,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3340-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
