@@ -219,6 +219,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2652-sum-multiples) |
@@ -244,6 +245,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0344-reverse-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
+| [2396-strictly-palindromic-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
 |  |
@@ -363,4 +365,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
