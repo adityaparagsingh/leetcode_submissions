@@ -132,6 +132,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2574-left-and-right-sum-differences) |
@@ -183,6 +184,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0680-valid-palindrome-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2129-capitalize-the-title) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3110-score-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3110-score-of-a-string) |
@@ -321,6 +323,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
