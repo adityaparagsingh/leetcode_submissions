@@ -144,6 +144,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -173,6 +174,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -283,6 +285,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0190-reverse-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
 | ------- |
@@ -377,6 +380,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
@@ -402,4 +406,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
