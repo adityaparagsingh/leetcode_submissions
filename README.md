@@ -236,6 +236,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0326-power-of-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2235-add-two-integers) |
@@ -390,6 +391,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Graph Theory
 |  |
 | ------- |
