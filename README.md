@@ -145,6 +145,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
@@ -254,6 +255,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
@@ -417,4 +419,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
