@@ -125,6 +125,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -168,6 +169,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
@@ -217,6 +219,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -289,6 +292,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -316,6 +320,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
@@ -428,4 +433,16 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
