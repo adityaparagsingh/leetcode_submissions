@@ -135,6 +135,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -181,6 +182,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -206,6 +208,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1108-defanging-an-ip-address) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2129-capitalize-the-title) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
