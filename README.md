@@ -212,6 +212,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2129-capitalize-the-title](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2129-capitalize-the-title) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2942-find-words-containing-character](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2942-find-words-containing-character) |
