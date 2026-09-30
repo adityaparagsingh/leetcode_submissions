@@ -2,6 +2,7 @@ class Solution:
     def maxDepthAfterSplit(self, seq: str) -> List[int]:
         ans=[]
         depth = 0
+        
         for c in seq:
             if c == '(':
                 ans.append(depth % 2)
