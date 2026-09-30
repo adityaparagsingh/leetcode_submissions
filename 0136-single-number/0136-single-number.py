@@ -1,6 +1,5 @@
 class Solution:
     def singleNumber(self, nums):
-        # Intuition: sorted pairs sit next to each other
         n = len(nums)
         nums.sort()
         for i in range(0, n - 1, 2):
