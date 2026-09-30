@@ -123,6 +123,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0035-search-insert-position](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
@@ -310,6 +311,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
