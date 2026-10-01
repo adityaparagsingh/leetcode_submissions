@@ -125,6 +125,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
