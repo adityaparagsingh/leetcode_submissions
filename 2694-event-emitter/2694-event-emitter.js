@@ -1,30 +1,27 @@
 class EventEmitter {
     constructor() {
-        this.events = {};
+        this.events = new Map();
     }
+
     subscribe(eventName, callback) {
-        if (!this.events[eventName]) {
-            this.events[eventName] = [];
+        if (!this.events.has(eventName)) {
+            this.events.set(eventName, []);
         }
-        const eventListener = { callback };
-        this.events[eventName].push(eventListener);
+        const listeners = this.events.get(eventName);
+        listeners.push(callback);
+
         return {
             unsubscribe: () => {
-                const index = this.events[eventName].indexOf(eventListener);
-                if (index > -1) {
-                    this.events[eventName].splice(index, 1);
-                    return undefined;
+                const idx = listeners.indexOf(callback);
+                if (idx !== -1) {
+                    listeners.splice(idx, 1);
                 }
             }
         };
     }
+
     emit(eventName, args = []) {
-        const eventListeners = this.events[eventName];
-        if (!eventListeners) {
-            return [];
-        }
-        return eventListeners.map((eventListener) => {
-        return eventListener.callback(...args);
-        });
+        if (!this.events.has(eventName)) return [];
+        return this.events.get(eventName).map(cb => cb(...args));
     }
 }
