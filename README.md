@@ -199,6 +199,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0058-length-of-last-word) |
@@ -245,6 +246,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -469,6 +471,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -482,6 +485,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
