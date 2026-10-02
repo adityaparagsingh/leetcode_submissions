@@ -124,6 +124,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -178,6 +179,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -499,4 +501,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0303-range-sum-query-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
