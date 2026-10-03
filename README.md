@@ -117,6 +117,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
@@ -177,6 +178,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
