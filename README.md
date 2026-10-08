@@ -209,6 +209,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
@@ -263,6 +264,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
@@ -309,6 +311,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
@@ -527,4 +530,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
