@@ -124,6 +124,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -266,6 +267,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
@@ -316,6 +318,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -507,6 +510,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -534,4 +538,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
