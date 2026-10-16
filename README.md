@@ -158,6 +158,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2942-find-words-containing-character) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -207,6 +208,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -503,6 +505,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -563,4 +566,5 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
