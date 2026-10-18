@@ -143,6 +143,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -287,6 +288,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -303,6 +305,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2396-strictly-palindromic-number) |
@@ -355,6 +358,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0190-reverse-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -400,6 +404,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -417,6 +422,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -425,6 +431,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
@@ -492,6 +499,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
@@ -557,6 +565,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -570,4 +579,12 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
