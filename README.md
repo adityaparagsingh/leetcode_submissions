@@ -174,6 +174,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
@@ -279,6 +280,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -327,6 +329,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3783-mirror-distance-of-an-integer](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -458,6 +461,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
 | ------- |
