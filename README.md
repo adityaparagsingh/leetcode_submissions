@@ -259,6 +259,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3340-check-balanced-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
