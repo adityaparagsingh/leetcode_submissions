@@ -254,6 +254,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2129-capitalize-the-title) |
+| [2409-count-days-spent-together](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2942-find-words-containing-character](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3110-score-of-a-string) |
@@ -316,6 +317,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
