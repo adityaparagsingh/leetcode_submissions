@@ -269,6 +269,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -521,6 +522,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Brainteaser
 |  |
 | ------- |
@@ -555,6 +557,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -622,4 +625,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
