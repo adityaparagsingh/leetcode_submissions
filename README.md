@@ -370,6 +370,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
