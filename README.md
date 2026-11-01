@@ -136,6 +136,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0303-range-sum-query-immutable](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
@@ -318,6 +319,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
