@@ -374,6 +374,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0550-game-play-analysis-iv) |
