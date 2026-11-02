@@ -376,6 +376,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0182-duplicate-emails](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0620-not-boring-movies) |
