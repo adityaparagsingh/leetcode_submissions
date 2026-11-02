@@ -397,6 +397,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1729-find-followers-count](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Divide and Conquer
