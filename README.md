@@ -180,6 +180,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
@@ -345,6 +346,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3525-find-x-value-of-array-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
