@@ -250,6 +250,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1108-defanging-an-ip-address) |
@@ -527,6 +528,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
