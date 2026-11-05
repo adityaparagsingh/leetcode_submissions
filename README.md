@@ -146,6 +146,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1470-shuffle-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -293,6 +294,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
