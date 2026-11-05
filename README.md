@@ -127,6 +127,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -311,6 +312,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
