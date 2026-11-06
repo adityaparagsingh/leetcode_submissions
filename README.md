@@ -338,6 +338,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0009-palindrome-number) |
+| [0089-gray-code](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
@@ -460,6 +461,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
@@ -663,6 +665,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 ## Stack
