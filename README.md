@@ -139,6 +139,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -341,6 +342,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -592,6 +594,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -710,4 +713,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
