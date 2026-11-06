@@ -130,6 +130,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0118-pascals-triangle](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -215,6 +216,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -336,6 +338,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0009-palindrome-number) |
+| [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0326-power-of-three) |
@@ -595,6 +598,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
@@ -718,4 +722,12 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
