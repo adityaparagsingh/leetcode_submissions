@@ -321,6 +321,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0118-pascals-triangle) |
+| [0233-number-of-digit-one](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -342,6 +343,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0089-gray-code](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0326-power-of-three) |
@@ -505,6 +507,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
