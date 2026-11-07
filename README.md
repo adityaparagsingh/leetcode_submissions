@@ -680,6 +680,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -698,6 +699,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0303-range-sum-query-immutable) |
 ## Union-Find
 |  |
