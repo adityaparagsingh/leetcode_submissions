@@ -132,6 +132,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0136-single-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -343,6 +344,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0009-palindrome-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
@@ -680,6 +682,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
