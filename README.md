@@ -147,6 +147,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1470-shuffle-the-array) |
@@ -505,6 +506,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1748-sum-of-unique-elements) |
 ## Recursion
@@ -543,6 +545,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -598,6 +601,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -645,6 +649,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0301-remove-invalid-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Segment Tree
@@ -709,6 +714,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Manacher
