@@ -142,6 +142,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0739-daily-temperatures](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
@@ -693,6 +694,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -728,6 +730,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0739-daily-temperatures) |
 ## Binary Indexed Tree
 |  |
 | ------- |
