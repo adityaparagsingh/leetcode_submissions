@@ -143,6 +143,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0704-binary-search](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
@@ -497,6 +498,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0035-search-insert-position](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
