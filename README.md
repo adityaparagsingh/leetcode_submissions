@@ -126,6 +126,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0118-pascals-triangle) |
@@ -496,6 +497,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0704-binary-search) |
@@ -608,6 +610,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
