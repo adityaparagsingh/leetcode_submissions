@@ -136,6 +136,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0137-single-number-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -504,6 +505,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0704-binary-search) |
