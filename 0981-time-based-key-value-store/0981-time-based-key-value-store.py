@@ -1,23 +1,25 @@
 class TimeMap:
+
     def __init__(self):
-        self.keys: list[str] = []
-        self.vals: list[str] = []
-        self.stamps: list[list[tuple[int, int]]] = []
+        self.dic = {}
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        if value not in self.vals:
-            self.vals.append(value)
-        v = self.vals.index(value)
-        if key not in self.keys:
-            self.keys.append(key)
-            self.stamps.append([])
-        row = self.stamps[self.keys.index(key)]
-        if not row or row[-1][1] != v:
-            row.append((timestamp, v))
+        if key not in self.dic:
+            self.dic[key] = []
+        self.dic[key].append([value , timestamp])
 
     def get(self, key: str, timestamp: int) -> str:
-        row = next((r for k, r in zip(self.keys, self.stamps) if k == key), [])
-        return ([self.vals[v] for t, v in row if t <= timestamp] or [""])[-1]
+        res = ""
+        values = self.dic.get(key , [])
+        l , r = 0 , len(values) - 1
+        while l <= r :
+            mid = (l + r) >> 1
+            if values[mid][1] <= timestamp:
+                l = mid + 1
+                res = values[mid][0]
+            else:
+                r = mid - 1
+        return res
 
 
 # Your TimeMap object will be instantiated and called as such:
