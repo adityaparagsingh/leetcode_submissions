@@ -239,6 +239,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
+| [0981-time-based-key-value-store](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -282,6 +283,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0709-to-lower-case](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+| [0981-time-based-key-value-store](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 | [1096-brace-expansion-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -512,6 +514,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0349-intersection-of-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -739,6 +742,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0155-min-stack](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0303-range-sum-query-immutable) |
+| [0981-time-based-key-value-store](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 ## Union-Find
 |  |
 | ------- |
