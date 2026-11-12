@@ -188,6 +188,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2942-find-words-containing-character) |
 | [3046-split-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3046-split-the-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
