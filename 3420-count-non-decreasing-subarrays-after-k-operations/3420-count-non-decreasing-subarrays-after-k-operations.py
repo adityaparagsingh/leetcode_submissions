@@ -1,18 +1,33 @@
+
+from collections import deque
+from typing import List
+
 class Solution:
-    def countNonDecreasingSubarrays(self, nums: list[int], k: int) -> int:
-        starts = deque()  # where each plateau starts, left to right
-        ans, water, r = 0, 0, len(nums) - 1
-        for l in reversed(range(len(nums))):
-            x = nums[l]
-            while starts and nums[starts[0]] <= x:  # x floods the plateau that starts at starts[0]
-                s = starts.popleft()
-                end = starts[0] if starts else r + 1
-                water += (x - nums[s]) * (end - s)
-            starts.appendleft(l)
-            while water > k:  # the right end leaves with its water
-                water -= nums[starts[-1]] - nums[r]
-                if starts[-1] == r:
-                    starts.pop()
-                r -= 1
-            ans += r - l + 1
+    def countNonDecreasingSubarrays(self, nums: List[int], k: int) -> int:
+        dq = deque()
+        cost = 0
+        ans = 0
+        j = len(nums) - 1
+
+        for i in range(len(nums) - 1, -1, -1):
+            num = nums[i]
+            count = 1
+
+            while dq and dq[-1][0] < num:
+                nextNum, nextCount = dq.pop()
+                count += nextCount
+                cost += (num - nextNum) * nextCount
+
+            dq.append((num, count))
+
+            while cost > k:
+                rightNum, rightCount = dq.popleft()
+                cost -= rightNum - nums[j]
+                j -= 1
+
+                if rightCount > 1:
+                    dq.appendleft((rightNum, rightCount - 1))
+
+            ans += j - i + 1
+
         return ans
