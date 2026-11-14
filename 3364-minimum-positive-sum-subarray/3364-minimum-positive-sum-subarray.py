@@ -1,12 +1,12 @@
 class Solution:
-    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
-        n = len(nums)
-        ans = float('inf')
-        for i in range(n):
-            s = 0
-            for j in range(i, n):
-                s += nums[j]
-                length = j - i + 1
-                if l <= length <= r and s > 0:
-                    ans = min(ans, s)
-        return -1 if ans == float('inf') else ans
+    def minimumSumSubarray(self, nums: list[int], l: int, r: int) -> int:
+        pre = [0, *accumulate(nums)]
+        best, starts, w = inf, [], r - l + 1
+        for t, cur in enumerate(pre[l:]):  # cur = pre[j], and the start t = j - l enters
+            insort(starts, pre[t])
+            if t >= w:
+                del starts[bisect_left(starts, pre[t - w])]  # the start j - r - 1 leaves: too long
+            k = bisect_left(starts, cur)  # the largest start below cur sits right before k
+            if k and cur - starts[k - 1] < best:
+                best = cur - starts[k - 1]
+        return -1 if best == inf else best
