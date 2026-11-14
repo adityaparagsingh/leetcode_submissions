@@ -190,6 +190,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3046-split-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -226,6 +227,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -674,6 +676,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Breadth-First Search
