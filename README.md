@@ -304,6 +304,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -359,6 +360,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -436,6 +438,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Database
 |  |
 | ------- |
