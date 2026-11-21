@@ -192,6 +192,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3046-split-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -261,6 +262,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3046-split-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -310,6 +312,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2942-find-words-containing-character](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -584,6 +587,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -591,6 +595,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
