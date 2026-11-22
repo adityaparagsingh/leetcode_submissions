@@ -303,6 +303,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2409-count-days-spent-together) |
