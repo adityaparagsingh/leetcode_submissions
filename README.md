@@ -159,6 +159,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1470-shuffle-the-array) |
@@ -226,6 +227,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -397,6 +399,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -776,6 +779,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0155-min-stack](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -838,4 +842,8 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
