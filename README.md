@@ -291,6 +291,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0344-reverse-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0709-to-lower-case) |
@@ -393,6 +394,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0263-ugly-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0509-fibonacci-number) |
@@ -616,6 +618,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1929-concatenation-of-array) |
