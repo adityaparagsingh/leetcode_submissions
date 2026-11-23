@@ -401,6 +401,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0812-largest-triangle-area](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1512-number-of-good-pairs) |
@@ -522,6 +523,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [0191-number-of-1-bits](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
