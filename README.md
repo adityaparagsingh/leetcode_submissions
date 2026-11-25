@@ -223,6 +223,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3903-smallest-stable-index-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
@@ -276,6 +277,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -558,6 +560,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -858,4 +861,16 @@ This is more than just a collection of accepted solutions. It represents my **DS
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
