@@ -195,6 +195,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3046-split-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -426,6 +427,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2769-find-the-maximum-achievable-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3099-harshad-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
