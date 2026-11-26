@@ -426,6 +426,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2769-find-the-maximum-achievable-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -637,6 +638,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
