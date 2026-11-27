@@ -216,6 +216,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3665-twisted-mirror-path-count](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3668-restore-finishing-order) |
 | [3693-climbing-stairs-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3693-climbing-stairs-ii) |
+| [3701-compute-alternating-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -647,6 +648,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2553-separate-the-digits-in-an-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
