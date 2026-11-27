@@ -197,6 +197,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -273,6 +274,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3046-split-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -431,6 +433,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
