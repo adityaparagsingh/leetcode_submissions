@@ -230,6 +230,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3925-concatenate-array-with-reverse](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
 | [3934-smallest-unique-subarray](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -365,6 +366,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -612,6 +614,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -763,6 +766,7 @@ This is more than just a collection of accepted solutions. It represents my **DS
 | [1882-process-tasks-using-servers](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaparagsingh/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
